@@ -1,0 +1,68 @@
+{
+  "BigQuery Schema": [
+    {
+      "name": "player_no",
+      "type": "STRING"
+    },
+    {
+      "name": "name",
+      "type": "STRING"
+    },
+    {
+      "name": "att_won",
+      "type": "INTEGER"
+    },
+    {
+      "name": "att_att",
+      "type": "INTEGER"
+    },
+    {
+      "name": "block_won",
+      "type": "INTEGER"
+    },
+    {
+      "name": "block_att",
+      "type": "INTEGER"
+    },
+    {
+      "name": "serv_won",
+      "type": "INTEGER"
+    },
+    {
+      "name": "serv_att",
+      "type": "INTEGER"
+    },
+    {
+      "name": "dig_exc",
+      "type": "INTEGER"
+    },
+    {
+      "name": "dig_att",
+      "type": "INTEGER"
+    },
+    {
+      "name": "rec_exc",
+      "type": "INTEGER"
+    },
+    {
+      "name": "rec_att",
+      "type": "INTEGER"
+    },
+    {
+      "name": "set_exc",
+      "type": "INTEGER"
+    },
+    {
+      "name": "set_att",
+      "type": "INTEGER"
+    },
+    {
+      "name": "match_no",
+      "type": "INTEGER"
+    },
+    {
+      "name": "match_title",
+      "type": "STRING"
+    }
+  ]
+}
