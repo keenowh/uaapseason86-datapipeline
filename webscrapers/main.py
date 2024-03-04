@@ -93,5 +93,5 @@ with open('file.csv', 'w', newline='') as file:
                     player['set_exc'],
                     player['set_att'],
                     match['matchNo'],
-                    match['matchTitle']
+                    match['teamName']
                 ])
