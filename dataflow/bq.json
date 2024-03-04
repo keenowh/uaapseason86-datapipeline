@@ -61,7 +61,7 @@
       "type": "INTEGER"
     },
     {
-      "name": "match_title",
+      "name": "school",
       "type": "STRING"
     }
   ]
